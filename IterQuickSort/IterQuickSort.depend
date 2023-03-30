@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1680166429 source:c:\users\visitha\desktop\new folder\iterquicksort\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<chrono>
+	<cstdlib>
+	<ctime>
+

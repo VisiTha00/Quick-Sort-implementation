@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1680165530 source:c:\users\visitha\desktop\new folder\quicksortfun\main.cpp
+	<iostream>
+	<chrono>
+	<cstdlib>
+	<ctime>
+
